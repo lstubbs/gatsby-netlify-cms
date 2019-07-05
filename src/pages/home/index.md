@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/fullsizerender.jpg
+  image: /img/ms.jpg
   imageAlt: JavaScript Wakanda
 title: ManCard Services
 upcomingMeetupHeading: '"I take your mancard so your wife doesn''t have to!"'
@@ -16,7 +16,7 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'mailto:mzablotsky@yahoo.com'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
   browserTitle: JS Wakanda
