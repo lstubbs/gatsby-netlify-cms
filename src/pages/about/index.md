@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Town of Marana JavaScript Developer Meetup
+title: Mancard Services About
 mainImage:
   image: /img/nerd.jpg
   imageAlt: Town of Marana JavaScript developer presenting at a meetup.
@@ -10,13 +10,23 @@ gallery:
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Wakanda developers working together at a table.
   - image: /img/building2.jpg
-developerGroups: |-
-  ## Other Wakanda Developer Groups
+developerGroups: >-
+  ## WHO I AM
 
-  * [React & React Native Meetup](https://www.google.com)
+
+  I provide handyman services at affordable rates.  I specialize in Stables,
+  Chicken Coops, and Patios, although I offer a wide range of skills.  If you
+  need a job done, then it'll get done RIGHT!
+
+
+
+
   * [Python Meetup](https://www.google.com)
+
   * [Google Developer Meetup](https://www.google.com)
+
   * [Vue.js Meetup](https://www.google.com)
+
   * [Ruby Meetup](https://www.google.com)
 organizers:
   title: Group Organizers
